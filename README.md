@@ -1,4 +1,6 @@
-# discovery
+# Artifex
+A go to place to find unrecognized talent for YouTube with great Content.
+Works based on highest number of upvotes.
 
 ## Project setup
 ```
